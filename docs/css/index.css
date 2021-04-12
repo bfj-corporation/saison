@@ -1099,6 +1099,12 @@ body {
   font-size: 16px;
 }
 
+.header,
+#footer-menu,
+.drawer__title {
+  background-color: #00185a;
+}
+
 div {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1116,7 +1122,7 @@ h3 {
   border-left-style: solid;
   /* font-size: 1.2em; */
   line-height: 1.5;
-  border-color: #ffb6c1;
+  border-color: #133db1;
 }
 
 .ul-pink {
@@ -1132,6 +1138,10 @@ h3 {
   background-attachment: initial;
   background-origin: initial;
   background-clip: initial;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-bold {
@@ -1153,7 +1163,7 @@ h3 {
 .contents {
   border: 1px #ccc solid;
   padding: 20px;
-  box-shadow: 0 2px 5px 0 #ffc6d3;
+  box-shadow: 0 2px 5px 0 #dbe3fc;
   background: #fff;
   font-size: 90%;
   margin-top: 20px;
