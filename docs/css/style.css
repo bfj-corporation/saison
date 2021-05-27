@@ -1843,7 +1843,7 @@ footer p {
   list-style-type: disc;
   margin-bottom: 1.5em;
   padding: 1.5em 1em 1.5em 2.5em;
-  border: solid 2px #dcdcdc;
+  /* border: solid 2px #dcdcdc; */
 }
 
 .entry-content li {
